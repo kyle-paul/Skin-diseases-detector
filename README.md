@@ -1,4 +1,4 @@
-# Skin Diseases Detector
+# TensorFlow.js Boilerplate
 
 This very simple skeleton simply loads in TensorFlow.js and prints out the version once loaded to the DOM.
 
